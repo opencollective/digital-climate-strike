@@ -7,7 +7,7 @@ full_page:
     rejoint<br />
     le mouvement de grève mondial<br />
     #ClimateStrike aujourd&apos;hui.<br />
-    Et vous ?'
+    <a href="https://blog.opencollective.com/digital-climate-strike">Plus d'info</a>'
   ready: "Je participe ➔"
   footer: 'Vous serez en mesure d&apos;accéder à ce site demain, le <time id="dcs-tomorrow-date" datetime="2019-09-21">21 septembre</time>.'
 footer:
