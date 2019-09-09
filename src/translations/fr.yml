@@ -11,7 +11,7 @@ full_page:
   ready: "Je participe ➔"
   footer: 'Vous serez en mesure d&apos;accéder à ce site demain, le <time id="dcs-tomorrow-date" datetime="2019-09-21">21 septembre</time>. <a target="_top" href="https://blog.opencollective.com/digital-climate-strike">En savoir plus</a>.'
 footer:
-  body: 'Notre site se joindra au mouvement de grève mondial #ClimateStrike le <time id="dcs-strike-date" datetime="2019-09-20">20 septembre</time>. <a target="_top" href="https://blog.opencollective.com/digital-climate-strike">En savoir plus</a>.'
+  body: 'Open Collective se joindra au mouvement de grève mondial #ClimateStrike le <time id="dcs-strike-date" datetime="2019-09-20">20 septembre</time>. <a target="_top" href="https://blog.opencollective.com/digital-climate-strike">En savoir plus</a>.'
   ready: "Je participe ➔"
 
 title: "Grêve numérique mondiale pour le climat"
