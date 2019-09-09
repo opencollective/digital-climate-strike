@@ -1,8 +1,8 @@
 full_page:
   body: '
-    <span class="dcs-website-name__default">Notre</span>
-    <span class="dcs-website-name__prefix">Le</span>
-    <span class="dcs-website-name__website">site</span>
+    <span class="dcs-website-name__default">Open Collective</span>
+    <span class="dcs-website-name__prefix"></span>
+    <span class="dcs-website-name__website"></span>
     <span class="dcs-website-name"></span>
     rejoint<br />
     le mouvement de grève mondial<br />

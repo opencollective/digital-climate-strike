@@ -1,9 +1,9 @@
 full_page:
   body: '
-    <span class="dcs-website-name__default">Our</span>
-    <span class="dcs-website-name__prefix">The</span>
+    <span class="dcs-website-name__default">Open Collective</span>
+    <span class="dcs-website-name__prefix"></span>
     <span class="dcs-website-name"></span>
-    <span class="dcs-website-name__website">website</span>
+    <span class="dcs-website-name__website"></span>
     is<br />
     joining the Global<br />
     #ClimateStrike today.<br />
