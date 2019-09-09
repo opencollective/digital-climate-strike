@@ -11,7 +11,7 @@ full_page:
   ready: "Join the strike ➔"
   footer: 'You’ll be able to access this website tomorrow, <time id="dcs-tomorrow-date" datetime="2019-09-21">September 21</time>. <a target="_top" href="https://blog.opencollective.com/digital-climate-strike">Read our blog post</a>.'
 footer:
-  body: 'Our website will join the Global #ClimateStrike on <time id="dcs-strike-date" datetime="2019-09-20">September 20</time>. <a target="_top" href="https://blog.opencollective.com/digital-climate-strike">Read our blog post</a>.'
+  body: 'Open Collective will join the Global #ClimateStrike on <time id="dcs-strike-date" datetime="2019-09-20">September 20</time>. <a target="_top" href="https://blog.opencollective.com/digital-climate-strike">Read our blog post</a>.'
   ready: "Join the strike ➔"
 
 title: "Digital Climate Strike"
